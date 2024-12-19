@@ -5,7 +5,7 @@ function myFunction() {
 }
 
 // load a sprite "bean" from an image
-loadSprite("slime", "img/slime.png");
+loadSprite("slime", "assets/sprites/slime.png");
 
 // add something to screen
 add([sprite("slime"), pos(80, 40)]);
